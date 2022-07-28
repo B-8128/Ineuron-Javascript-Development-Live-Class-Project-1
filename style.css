@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'orbitron';
+}
+
+
+/* Navbar Section  */
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-item {
+    margin: 20px;
+    font-size: 1.5rem;
+    margin-left: 30px;
+    font-weight: bolder;
+}
+
+.list-item1 {
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    font-size: 1.5rem;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.list-item1:before {
+    content: "";
+    position: absolute;
+    width: 60%;
+    height: 1px;
+    bottom: 0;
+    left: 25%;
+    border-bottom: 2px solid #000;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.nav-button {
+    margin-left: 15px;
+    padding: 7px 39px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 1rem;
+}
+
+
+/* common logo  */
+
+.logo {
+    margin-top: 15px;
+}
+
+.globe {
+    position: absolute;
+    left: 55%;
+    top: 20%;
+}
+
+.star {
+    position: absolute;
+    left: 89%;
+    top: 28%;
+}
+
+
+/* Hero Banner Section  */
+
+.hero-container-right {
+    position: absolute;
+    left: 40%;
+    top: 38%;
+}
+
+.hero-heading {
+    font-size: 3.5rem;
+    margin-bottom: 40px;
+}
+
+.hero-description {
+    width: 72%;
+    margin-left: 70px;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.join {
+    position: absolute;
+    margin-top: 60px;
+    left: 30%;
+}
+
+.button-email {
+    padding: 5px 25px;
+    border-radius: 10px;
+    background-color: #fff;
+    margin-right: 10px;
+}
+
+.button-join {
+    padding: 5px 5px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.contact-heading {
+    position: absolute;
+    top: 200%;
+    left: 42%;
+    color: #515151;
+}
+
+.icons img {
+    margin-left: 20px;
+}
+
+.icons {
+    position: absolute;
+    top: 220%;
+    left: 36%;
+}
+
+.square {
+    position: absolute;
+    z-index: -1;
+    top: 57%;
+    left: 16%;
+}
+
+.person img {
+    margin-left: 75px;
+}
+
+.star2 img {
+    position: absolute;
+    left: 40%;
+    top: 87%;
+}
