@@ -47,6 +47,7 @@
 > ## YOU CAN ALSO GO TO MY HASHNODE AND READ MY ARTICLES ABOUT CSS POSITIONING. [LINK OF THE ARTICLE](https://brijeshvadaliya8128.hashnode.dev/ "HASHNODE")  
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-1.netlify.app/ "Project-1-Netlify")
 >![Screenshot](./Screenshot/Screenshot.png)
 
 
